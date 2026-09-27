@@ -15,6 +15,6 @@ UpgradeBehavior: install
 Installers:
   - Architecture: x64
     InstallerUrl: https://puhuiai.com.cn/static/puhui-chaijie-desktop-v1.3.1.zip
-    InstallerSha256: B824336C2036DD900388BA7FBAF17FBA220BE2DAB4EBEFA9D72A4ED36D9644E8
+    InstallerSha256: b824336c2036dd900388ba7fbaf17fba220be2dab4ebefa9d72a4ed36d9644e8
 ManifestType: installer
 ManifestVersion: 1.6.0
